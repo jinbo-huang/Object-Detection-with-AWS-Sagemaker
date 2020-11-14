@@ -4,7 +4,9 @@ This Project is hugely based on the [Object Detection with Amazon Sagemaker](htt
 
 ## Preview
 ### Ground Truth
+![](imgs/ground_truth.png)
 ### Predictions
+![](imgs/predictions.JPG)
 ### Annotation
 This is one sample of annotation for training.
 ```
