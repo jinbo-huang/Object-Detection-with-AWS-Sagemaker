@@ -6,6 +6,8 @@ This Project is hugely based on the [Object Detection with Amazon Sagemaker](htt
 ### Ground Truth
 ![](imgs/ground_truth.png)
 ### Predictions
+This prediction result comes from a model using resnet-50 as base network and trained 20 iterations. For more detailed hyper-parameter settings, please check the notebook.
+
 ![](imgs/predictions.png)
 ### Annotation
 This is one sample of annotation for training.
